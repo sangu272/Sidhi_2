@@ -10,7 +10,7 @@
 
 from typing import Dict, List, Union
 
-from VIPMUSIC.core.mongo import mongodb
+from BrandrdXMusic.core.mongo import mongodb
 
 queriesdb = mongodb.queries
 userdb = mongodb.userstats
