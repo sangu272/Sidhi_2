@@ -2,7 +2,7 @@ import asyncio
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from config import AUTO_GCAST, AUTO_GCAST_MSG, LOG_GROUP_ID
+from config import AUTO_GCAST, AUTO_GCAST_MSG, LOGGER_ID
 from BrandrdXMusic import app
 from BrandrdXMusic.utils.database import get_served_chats
 
